@@ -1,2 +1,2 @@
 # TouhouCraft
-TH themed minecraft mod
+Nothing Yet
